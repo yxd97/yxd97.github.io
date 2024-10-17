@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: assets/CV2024Oct16.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: assets/cv.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     # languages:
     #   title: Languages
@@ -172,7 +172,7 @@ skills:
     title: Skills
 
     toolset:
-      - name: Verilog HDL
+      - name: Verilog/System Verilog
         level: 95%
       - name: Vitis HLS
         level: 95%
