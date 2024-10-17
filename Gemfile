@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem "jekyll"
-gem 'github-pages'
+# gem "jekyll"
+gem "github-pages", "~> 232", group: :jekyll_plugins
 gem 'webrick'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
