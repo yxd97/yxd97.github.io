@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Yixiao Du
-url: 'http://yxd97.github.io'
+url: 'yxd97.github.io'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -36,13 +36,13 @@ host: 0.0.0.0
 safe: false
 
 # for github pages
-lsi: false
-safe: true
-source: yxd97.github.io
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# lsi: false
+# safe: true
+# source: yxd97.github.io
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
