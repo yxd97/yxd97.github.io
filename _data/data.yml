@@ -150,7 +150,7 @@ publications:
     papers:
       - title: "Vesper: A Versatile Sparse Linear Algebra Accelerator With Configurable Compute Patterns"
         link: "https://doi.org/10.1109/TCAD.2024.3496882"
-        authors: Hanchen Jin, Zichao Yue, Zhongyuan Zhao, Yixiao Du, Chenhui Deng, Nitis Srivastava, Zhiru Zhang
+        authors: Hanchen Jin, Zichao Yue, Zhongyuan Zhao, Yixiao Du, Chenhui Deng, Nitish Srivastava, Zhiru Zhang
         conference: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), November 2024
 
       - title: Rapid GPU-Based Pangenome Graph Layout
