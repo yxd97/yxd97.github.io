@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Yixiao Du
-    tagline: Ph.D. student at Cornell University
+    tagline: Ph.D. candidate at Cornell University
     avatar: yixiao.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -61,7 +61,7 @@ career-profile:
     title: About Me
     summary: |
       Thanks for visiting my website!
-      I am an MS/PhD student at Cornell ECE, working in Computer Systems Lab under the supervision of
+      I am an PhD candidate at Cornell ECE, working in Computer Systems Lab under the supervision of
       <a href="https://www.csl.cornell.edu/~zhiruz/index.html">Prof. Zhiru Zhang</a>.
       My current research focuses on designing flexible and efficient accelerators for sparse workloads
       (e.g, sparse matrix multiply, graph analytics),
