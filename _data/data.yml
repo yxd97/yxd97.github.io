@@ -32,6 +32,7 @@ sidebar:
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: assets/cv.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf_zh_cn: assets/CV__zh_cn.pdf # 中文简历
 
     # languages:
     #   title: Languages
@@ -91,13 +92,16 @@ experiences:
     title: Experiences
     info:
       - role: Research Intern
+        time: May 2025 - August 2025
+        company: RapidStream Design Automation, Inc., Remote
+        details: |
+           - Studied automated floorplanning and parallel implementation for dataflow architectures on FPGAs.
+      - role: Research Intern
         time: May 2023 - December 2023
         company: Mangoboost Inc., Bellevue, WA
         details: |
            - Built testing hardware in Verilog to characterize the high-bandwidth memory (HBM) system on AMD Alveo U55C FPGA.
            - Explored functional simulation of HLS designs interfacing with NVMe.
-
-
 
 certifications:
       title: Honors &amp; Awards
@@ -110,7 +114,6 @@ certifications:
           credentialurl:
           credentialname:
           details: Only one winner per year with a $3000 prize
-
 
 projects:
     title: Open-Source Projects
