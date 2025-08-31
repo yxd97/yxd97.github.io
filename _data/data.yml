@@ -32,7 +32,7 @@ sidebar:
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
     pdf: assets/cv.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
-    pdf_zh_cn: assets/CV__zh_cn.pdf # 中文简历
+    pdf_zh_cn: assets/CV__zh_cn_.pdf # 中文简历
 
     # languages:
     #   title: Languages
