@@ -167,7 +167,7 @@ publications:
       - title: "Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference"
         link: "https://doi.org/10.1145/3656177"
         authors: Hongzheng Chen, Jiahao Zhang, Yixiao Du, Shaojie Xiang, Zichao Yue, Niansong Zhang, Yaohui Cai, Zhiru Zhang
-        conference: ACM Transactions on Reconfigurable Technology and Systems (TRETS), March 2024
+        conference: ACM Transactions on Reconfigurable Technology and Systems (TRETS), March 2024 (Best Paper Award)
 
       - title: "High-Performance Sparse Linear Algebra on HBM-Equipped FPGAs Using HLS: A Case Study on SpMV"
         link: "https://doi.org/10.1145/3490422.3502368"
